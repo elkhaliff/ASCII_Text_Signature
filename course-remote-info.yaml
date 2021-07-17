@@ -3,20 +3,20 @@ hyperskill_project:
   ide_files: https://stepik.org/media/attachments/lesson/226140/additional_files.json
   is_template_based: false
   use_ide: true
-update_date: Thu, 01 Jan 1970 00:00:00 UTC
+update_date: Sat, 17 Jul 2021 14:20:51 UTC
 stages:
 - id: 390
   step: 6173
   is_completed: true
 - id: 391
   step: 6174
-  is_completed: false
+  is_completed: true
 - id: 392
   step: 6175
-  is_completed: false
+  is_completed: true
 - id: 393
   step: 6176
-  is_completed: false
+  is_completed: true
 topics:
   0:
   - title: Modulo division
